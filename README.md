@@ -12,7 +12,17 @@
   <a href = "mailto:gustavomanrrik@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23A9205F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> 
 
+### Education:
+- Bachelor of Civil Engineering (Incomplete), _Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)_, 08/2018 - 12/2022
+- Full Stack Web Development, _Kenzie Academy Brasil_, 01/2023 - 01/2024
+
+### Experience:
+- Peer Coach at Kenzie Academy Brasil (05/23 - Currently)
+
 ### Main skills:
+- HTML5
+- CSS3
+- JavaScript
 <div style="display: inline_block"><br>
   <img align="center" alt="Manrrik-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Manrrik-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -21,6 +31,8 @@
 </div>
   
 ### Studying in this moment:
+- React
+- TypeScript
 <div style="display: inline_block"><br>
   <img align="center" alt="Manrrik-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Manrrik-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
