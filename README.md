@@ -23,19 +23,21 @@
 - HTML5
 - CSS3
 - JavaScript
+- React
+- Tailwind CSS
 <div style="display: inline_block"><br>
-  <img align="center" alt="Manrrik-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Manrrik-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Manrrik-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Manrrik-HTML" height="30" width="40" src="https://api.iconify.design/skill-icons:html.svg?color=%23878787">
+  <img align="center" alt="Manrrik-CSS" height="30" width="40" src="https://api.iconify.design/skill-icons:css.svg?color=%23878787">
+  <img align="center" alt="Manrrik-Js" height="30" width="40" src="https://api.iconify.design/skill-icons:javascript.svg?color=%23878787">
+  <img align="center" alt="Manrrik-React" height="30" width="40" src="https://api.iconify.design/skill-icons:react-dark.svg?color=%23878787">
+  <img align="center" alt="Manrrik-Tailwind CSS" height="30" width="40" src="https://api.iconify.design/skill-icons:tailwindcss-dark.svg?color=%23878787">
   <img align="right" alt="Manrrik-gif" height="150" style="border-radius:50px;" src="https://camo.githubusercontent.com/925382df1a51ad299db7f3d7daec56d71de5f5c148bb36e45415752968b3192b/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f706f6b656d6f682d61643066612e61707073706f742e636f6d2f6f2f65386634353334363961336563393765636433353464663436356437333931332e6769663f616c743d6d6564696126746f6b656e3d30343235333662312d643139612d343433382d616262642d343832613738663631623230">
 </div>
   
 ### Studying in this moment:
-- React
 - TypeScript
 <div style="display: inline_block"><br>
-  <img align="center" alt="Manrrik-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Manrrik-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Manrrik-Ts" height="30" width="40" src="https://api.iconify.design/skill-icons:typescript.svg?color=%23878787">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
