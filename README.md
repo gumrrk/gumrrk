@@ -8,9 +8,10 @@
 </div>
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/1igUk4rJElzjsPUW4SV5MT8i4JL0egYD6/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Resume-%23006400?style=for-the-badge&logo=readme&logoColor=white"></a>
+  <a href="https://drive.google.com/file/d/1igUk4rJElzjsPUW4SV5MT8i4JL0egYD6/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Resume-%2346295A?style=for-the-badge&logo=readme&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/gustavo-manrrik" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "mailto:gustavomanrrik@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23C71610?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href = "https://wa.me/88998015196"><img src="https://img.shields.io/badge/-Whatsapp-%23075e54?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div> 
 
 ### Education:
@@ -18,28 +19,24 @@
 - Full Stack Web Development, _Kenzie Academy Brasil_, 01/2023 - 01/2024
 
 ### Experience:
-- Peer Coach at Kenzie Academy Brasil (05/23 - Currently)
+- Peer Coach at [Kenzie Academy Brasil](https://kenzie.com.br/) (05/23 - Currently)
 
 ### Main skills:
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Tailwind CSS
-
 <div style="display: inline_block"><br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img align="center" alt="Manrrik-HTML" height="30" width="40" src="https://api.iconify.design/skill-icons:html.svg?color=%23878787"> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img align="center" alt="Manrrik-CSS" height="30" width="40" src="https://api.iconify.design/skill-icons:css.svg?color=%23878787"> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img align="center" alt="Manrrik-Js" height="30" width="40" src="https://api.iconify.design/skill-icons:javascript.svg?color=%23878787"> </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img align="center" alt="Manrrik-React" height="30" width="40" src="https://api.iconify.design/skill-icons:react-dark.svg?color=%23878787"> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img align="center" alt="Manrrik-Tailwind CSS" height="30" width="40" src="https://api.iconify.design/skill-icons:tailwindcss-dark.svg?color=%23878787"> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img align="center" alt="HTML5" height="30" width="40" src="https://api.iconify.design/skill-icons:html.svg?color=%23878787"> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img align="center" alt="CSS3" height="30" width="40" src="https://api.iconify.design/skill-icons:css.svg?color=%23878787"> </a>
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="center" alt="Git" height="30" width="40" src="https://api.iconify.design/skill-icons:git.svg?color=%23878787"> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img align="center" alt="JavaScript" height="30" width="40" src="https://api.iconify.design/skill-icons:javascript.svg?color=%23878787"> </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img align="center" alt="React" height="30" width="40" src="https://api.iconify.design/skill-icons:react-dark.svg?color=%23878787"> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://api.iconify.design/skill-icons:tailwindcss-dark.svg?color=%23878787"> </a>
+  <a href="https://styled-components.com/" target="_blank" rel="noreferrer"> <img align="center" alt="Styled Components" height="30" width="40" src="https://api.iconify.design/skill-icons:styledcomponents.svg?color=%23878787"> </a>
   <a href="https://www.linkedin.com/in/gustavo-manrrik/" target="_blank" rel="noreferrer"> <img align="right" alt="Manrrik-gif" height="150" style="border-radius:50px;" src="https://camo.githubusercontent.com/925382df1a51ad299db7f3d7daec56d71de5f5c148bb36e45415752968b3192b/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f706f6b656d6f682d61643066612e61707073706f742e636f6d2f6f2f65386634353334363961336563393765636433353464663436356437333931332e6769663f616c743d6d6564696126746f6b656e3d30343235333662312d643139612d343433382d616262642d343832613738663631623230"> </a>
 </div>
   
 ### Studying in this moment:
-- TypeScript
 <div style="display: inline_block"><br>
-  <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"> <img align="center" alt="Manrrik-Ts" height="30" width="40" src="https://api.iconify.design/skill-icons:typescript.svg?color=%23878787">
-</div> </a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"> <img align="center" alt="TypeScript" height="30" width="40" src="https://api.iconify.design/skill-icons:typescript.svg?color=%23878787"></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img align="center" alt="Python" height="30" width="40" src="https://api.iconify.design/skill-icons:python-dark.svg?color=%23878787"></a>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
