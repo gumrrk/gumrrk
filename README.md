@@ -15,11 +15,11 @@
 </div> 
 
 ### Education:
-- Bachelor of Civil Engineering (Incomplete), _Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)_, 08/2018 - 12/2022
-- Full Stack Web Development, _Kenzie Academy Brasil_, 01/2023 - 01/2024
+- Bachelor of Civil Engineering (Incomplete), _Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)_ (08/2018 - 12/2022)
+- Full Stack Web Development, _Kenzie Academy Brasil_ (01/2023 - 01/2024)
 
 ### Experience:
-- Peer Coach at [Kenzie Academy Brasil](https://kenzie.com.br/) (05/23 - Currently)
+- Peer Coach at [Kenzie Academy Brasil](https://kenzie.com.br/) (05/2023 - Currently)
 
 ### Main skills:
 <div style="display: inline_block"><br>
