@@ -27,7 +27,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img align="center" alt="CSS3" height="30" width="40" src="https://api.iconify.design/skill-icons:css.svg?color=%23878787"> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="center" alt="Git" height="30" width="40" src="https://api.iconify.design/skill-icons:git.svg?color=%23878787"> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img align="center" alt="JavaScript" height="30" width="40" src="https://api.iconify.design/skill-icons:javascript.svg?color=%23878787"> </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img align="center" alt="Styled Components" height="30" width="40" src="https://api.iconify.design/skill-icons:redux.svg?color=%23878787"> </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img align="center" alt="Redux" height="30" width="40" src="https://api.iconify.design/skill-icons:redux.svg?color=%23878787"> </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img align="center" alt="React" height="30" width="40" src="https://api.iconify.design/skill-icons:react-dark.svg?color=%23878787"> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://api.iconify.design/skill-icons:tailwindcss-dark.svg?color=%23878787"> </a>
   <a href="https://styled-components.com/" target="_blank" rel="noreferrer"> <img align="center" alt="Styled Components" height="30" width="40" src="https://api.iconify.design/skill-icons:styledcomponents.svg?color=%23878787"> </a>
@@ -38,6 +38,7 @@
 <div style="display: inline_block"><br>
   <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"> <img align="center" alt="TypeScript" height="30" width="40" src="https://api.iconify.design/skill-icons:typescript.svg?color=%23878787"></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img align="center" alt="Python" height="30" width="40" src="https://api.iconify.design/skill-icons:python-dark.svg?color=%23878787"></a>
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"> <img align="center" alt="C#" height="30" width="40" src="https://api.iconify.design/skill-icons:cs.svg?color=%23878787"></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
