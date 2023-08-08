@@ -32,15 +32,14 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://api.iconify.design/skill-icons:tailwindcss-dark.svg?color=%23878787"></a>
   <a href="https://styled-components.com/" target="_blank" rel="noreferrer"> <img align="center" alt="Styled Components" height="30" width="40" src="https://api.iconify.design/skill-icons:styledcomponents.svg?color=%23878787"></a>
   <a href="https://www.linkedin.com/in/gustavo-manrrik/" target="_blank" rel="noreferrer"> <img align="right" alt="Manrrik-gif" height="150" style="border-radius:50px;" src="https://camo.githubusercontent.com/925382df1a51ad299db7f3d7daec56d71de5f5c148bb36e45415752968b3192b/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f706f6b656d6f682d61643066612e61707073706f742e636f6d2f6f2f65386634353334363961336563393765636433353464663436356437333931332e6769663f616c743d6d6564696126746f6b656e3d30343235333662312d643139612d343433382d616262642d343832613738663631623230"> </a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"> <img align="center" alt="TypeScript" height="30" width="40" src="https://api.iconify.design/skill-icons:typescript.svg?color=%23878787"></a>
 </div>
   
 ### Studying in this moment:
 <div style="display: inline_block"><br>
-  <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"> <img align="center" alt="TypeScript" height="30" width="40" src="https://api.iconify.design/skill-icons:typescript.svg?color=%23878787"></a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img align="center" alt="Next.js" height="30" width="40" src="https://api.iconify.design/skill-icons:nextjs-dark.svg?color=%23878787"></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img align="center" alt="Python" height="30" width="40" src="https://api.iconify.design/skill-icons:python-dark.svg?color=%23878787"></a>
   <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"> <img align="center" alt="C#" height="30" width="40" src="https://api.iconify.design/skill-icons:cs.svg?color=%23878787"></a>
-  <a href="https://dotnet.microsoft.com/pt-br/" target="_blank" rel="noreferrer"> <img align="center" alt=".Net" height="30" width="40" src="https://api.iconify.design/skill-icons:dotnet.svg?color=%23878787"></a>
+  <a href="https://docs.airplane.dev/resources/postgresql" target="_blank" rel="noreferrer"> <img align="center" alt=".Net" height="30" width="40" src="https://api.iconify.design/skill-icons:postgresql-dark.svg"></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
