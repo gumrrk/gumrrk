@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/1Tp3Q3TKCux_gin5vZsG425QzBR_LDMwi/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Resume-%2346295A?style=for-the-badge&logo=readme&logoColor=white"></a>
+  <a href="https://drive.google.com/file/d/1hPUNMHM6UQTJj9h2ILZeCwEjNr0taRre/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Resume-%2346295A?style=for-the-badge&logo=readme&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/gustavo-manrrik" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "mailto:gustavomanrrik@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23C71610?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href = "https://wa.me/88998015196"><img src="https://img.shields.io/badge/-Whatsapp-%23075e54?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
