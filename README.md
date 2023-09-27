@@ -39,7 +39,6 @@
   <a href="https://www.python.org/doc/" target="_blank" rel="noreferrer"> <img align="center" alt="Python" height="30" width="40" src="https://api.iconify.design/skill-icons:python-dark.svg"></a>
   <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"> <img align="center" alt="C#" height="30" width="40" src="https://api.iconify.design/skill-icons:cs.svg?color=%23878787"></a>
   <a href="https://docs.airplane.dev/resources/postgresql" target="_blank" rel="noreferrer"> <img align="center" alt=".Net" height="30" width="40" src="https://api.iconify.design/skill-icons:postgresql-dark.svg"></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img align="center" alt="PostgreSQL" height="30" width="40" src="https://api.iconify.design/skill-icons:postgresql-dark.svg"></a>
   <a href="https://jestjs.io/pt-BR/" target="_blank" rel="noreferrer"> <img align="center" alt="Jest" height="30" width="40" src="https://api.iconify.design/skill-icons:jest.svg"></a>
 </div>
 
