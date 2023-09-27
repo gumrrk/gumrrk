@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Gustavo+Manrrik;I+study+web+development+at+Kenzie+Academy+Brasil;I'm+Peer+Coach;I'm+23+years+old;I+am+from+Quixeramobim,+CE;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Gustavo+Manrrik;I'm+a+Full+Stack+Developer;I+study+Web+Development+at+Kenzie+Academy+Brasil;I'm+Peer+Coach;I'm+23+years+old;I+am+from+Quixeramobim,+CE;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gumrrk&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Manrrik Github Stats" /> 
@@ -34,11 +34,13 @@
   <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"> <img align="center" alt="TypeScript" height="30" width="40" src="https://api.iconify.design/skill-icons:typescript.svg?color=%23878787"></a>
 </div>
   
-### Studying in this moment:
+### Studying and improving:
 <div style="display: inline_block"><br>
   <a href="https://www.python.org/doc/" target="_blank" rel="noreferrer"> <img align="center" alt="Python" height="30" width="40" src="https://api.iconify.design/skill-icons:python-dark.svg"></a>
   <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"> <img align="center" alt="C#" height="30" width="40" src="https://api.iconify.design/skill-icons:cs.svg?color=%23878787"></a>
   <a href="https://docs.airplane.dev/resources/postgresql" target="_blank" rel="noreferrer"> <img align="center" alt=".Net" height="30" width="40" src="https://api.iconify.design/skill-icons:postgresql-dark.svg"></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img align="center" alt="PostgreSQL" height="30" width="40" src="https://api.iconify.design/skill-icons:postgresql-dark.svg"></a>
+  <a href="https://jestjs.io/pt-BR/" target="_blank" rel="noreferrer"> <img align="center" alt="Jest" height="30" width="40" src="https://api.iconify.design/skill-icons:jest.svg"></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
