@@ -27,11 +27,11 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img align="center" alt="CSS3" height="30" width="40" src="https://api.iconify.design/skill-icons:css.svg?color=%23878787"></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="center" alt="Git" height="30" width="40" src="https://api.iconify.design/skill-icons:git.svg?color=%23878787"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img align="center" alt="JavaScript" height="30" width="40" src="https://api.iconify.design/skill-icons:javascript.svg?color=%23878787"></a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"> <img align="center" alt="TypeScript" height="30" width="40" src="https://api.iconify.design/skill-icons:typescript.svg?color=%23878787"></a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img align="center" alt="React" height="30" width="40" src="https://api.iconify.design/skill-icons:react-dark.svg?color=%23878787"></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://api.iconify.design/skill-icons:tailwindcss-dark.svg?color=%23878787"></a>
   <a href="https://styled-components.com/" target="_blank" rel="noreferrer"> <img align="center" alt="Styled Components" height="30" width="40" src="https://api.iconify.design/skill-icons:styledcomponents.svg?color=%23878787"></a>
   <a href="https://www.linkedin.com/in/gustavo-manrrik/" target="_blank" rel="noreferrer"> <img align="right" alt="Manrrik-gif" height="150" style="border-radius:50px;" src="https://camo.githubusercontent.com/925382df1a51ad299db7f3d7daec56d71de5f5c148bb36e45415752968b3192b/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f706f6b656d6f682d61643066612e61707073706f742e636f6d2f6f2f65386634353334363961336563393765636433353464663436356437333931332e6769663f616c743d6d6564696126746f6b656e3d30343235333662312d643139612d343433382d616262642d343832613738663631623230"> </a>
-  <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"> <img align="center" alt="TypeScript" height="30" width="40" src="https://api.iconify.design/skill-icons:typescript.svg?color=%23878787"></a>
 </div>
   
 ### Studying and improving:
