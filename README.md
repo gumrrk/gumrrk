@@ -38,6 +38,7 @@
   
 ### Studying and improving:
 <div style="display: inline_block"><br>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img align="center" alt="Sass" height="30" width="40" src="https://api.iconify.design/skill-icons:sass.svg"></a>
   <a href="https://www.python.org/doc/" target="_blank" rel="noreferrer"> <img align="center" alt="Python" height="30" width="40" src="https://api.iconify.design/skill-icons:python-dark.svg"></a>
   <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"> <img align="center" alt="C#" height="30" width="40" src="https://api.iconify.design/skill-icons:cs.svg?color=%23878787"></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img align="center" alt="MySQL" height="30" width="40" src="https://api.iconify.design/skill-icons:mysql-dark.svg"></a>
