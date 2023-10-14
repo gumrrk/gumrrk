@@ -42,7 +42,8 @@
   <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"> <img align="center" alt="C#" height="30" width="40" src="https://api.iconify.design/skill-icons:cs.svg?color=%23878787"></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img align="center" alt="MySQL" height="30" width="40" src="https://api.iconify.design/skill-icons:mysql-dark.svg"></a>
   <a href="https://jestjs.io/pt-BR/" target="_blank" rel="noreferrer"> <img align="center" alt="Jest" height="30" width="40" src="https://api.iconify.design/skill-icons:jest.svg"></a>
-</div>
   <a href="https://www.salesforce.com/br/products/marketing-cloud/overview/" target="_blank" rel="noreferrer"> <img align="center" alt="Salesforce Marketing Cloud" height="30" width="40" src="https://api.iconify.design/devicon:salesforce.svg"></a>
+</div>
+  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
