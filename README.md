@@ -19,7 +19,8 @@
 - Full Stack Web Development, _Kenzie Academy Brasil_ (01/2023 - 01/2024)
 
 ## Experience:
-- Peer Coach at [Kenzie Academy Brasil](https://www.linkedin.com/school/kenzieacademybr/) (05/2023 - Currently)
+- Peer Coach at Kenzie Academy Brasil (05/2023 - 10/2023)
+- Support Analyst at Cactus Gaming (11/2023 - Currently)
 
 ## Main skills:
 <div style="display: inline_block"><br>
