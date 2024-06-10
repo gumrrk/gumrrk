@@ -20,7 +20,8 @@
 
 ## Experience:
 - Peer Coach at Kenzie Academy Brasil (05/2023 - 10/2023)
-- Support Analyst at Cactus Gaming (11/2023 - Currently)
+- Support Analyst at Cactus Gaming (11/2023 - 03/2024)
+- Support Specialist at Cactus Gaming (04/2023 - 05/2024)
 
 ## Main skills:
 <div style="display: inline_block"><br>
