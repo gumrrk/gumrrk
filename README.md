@@ -15,13 +15,14 @@
 </div> 
 
 ## Education:
-- Bachelor of Civil Engineering (Incomplete), _Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)_ (08/2018 - 12/2022)
+- Bachelor of Civil Engineering, _Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) and Universidade Estácio de Sá_ (08/2018 - 12/2022 | 10/2024 - Actually)
 - Full Stack Web Development, _Kenzie Academy Brasil_ (01/2023 - 01/2024)
 
 ## Experience:
 - Peer Coach at Kenzie Academy Brasil (05/2023 - 10/2023)
-- Support Analyst at Cactus Gaming (11/2023 - 03/2024)
-- Support Specialist at Cactus Gaming (04/2023 - 05/2024)
+- Support Analyst and Specialist at Cactus Gaming (11/2023 - 05/2024)
+- Support Analyst at SevenX Gaming (08/2024 - 12/2024)
+- Financial Support Analyst at ExitLag (12/2024 - Actually)
 
 ## Main skills:
 <div style="display: inline_block"><br>
