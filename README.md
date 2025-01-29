@@ -8,8 +8,9 @@
 </div>
 
 <div align="center">
-  <a href="https://docs.google.com/document/d/1hWcw94WprqYwG1tJT86RmlcSFnsdXboYcMK-mcgQ66E/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Resume-%2346295A?style=for-the-badge&logo=readme&logoColor=white"></a>
+  <a href="https://docs.google.com/document/d/1s4LL3lN47sUNAszjLA4ZjKyqQXsD75Qi4KInFF5xE0A/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Resume-%2346295A?style=for-the-badge&logo=readme&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/gustavo-manrrik" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href = "https://portfolio-gustavomanrrik.vercel.app/"><img src="https://img.shields.io/badge/-Portfólio-%23032e11?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href = "mailto:gustavomanrrik@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23C71610?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href = "https://wa.me/88998015196"><img src="https://img.shields.io/badge/-Whatsapp-%23075e54?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div> 
@@ -19,10 +20,10 @@
 - Full Stack Web Development, _Kenzie Academy Brasil_ (01/2023 - 01/2024)
 
 ## Experience:
-- Peer Coach at Kenzie Academy Brasil (05/2023 - 10/2023)
-- Support Analyst and Specialist at Cactus Gaming (11/2023 - 05/2024)
-- Support Analyst at SevenX Gaming (08/2024 - 12/2024)
 - Financial Support Analyst at ExitLag (12/2024 - Actually)
+- Support Analyst at SevenX Gaming (08/2024 - 12/2024)
+- Support Analyst and Specialist at Cactus Gaming (11/2023 - 05/2024)
+- Peer Coach at Kenzie Academy Brasil (05/2023 - 11/2023)
 
 ## Main skills:
 <div style="display: inline_block"><br>
