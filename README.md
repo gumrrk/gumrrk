@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Gustavo+Manrrik;I'm+a+Full+Stack+Developer;I+studied+Web+Development+at+Kenzie+Academy+Brasil;I'm+a+Financial+Support+Analyst+at+ExitLag;I'm+24+years+old;I+am+from+Quixeramobim,+Ceará;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Gustavo+Manrrik;I'm+a+Full+Stack+Developer;I+studied+Web+Development+at+Kenzie+Academy+Brasil;I'm+a+Financial+Support+Analyst+at+ExitLag;I'm+25+years+old;I+am+from+Quixeramobim,+Ceará;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gumrrk&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&rank_icon=github&bg_color=0d1117" alt="Gustavo Manrrik Github Stats" /> 
@@ -12,15 +12,16 @@
   <a href="https://www.linkedin.com/in/gustavo-manrrik" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "https://portfolio-gustavomanrrik.vercel.app/"><img src="https://img.shields.io/badge/-Portfólio-%23032e11?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href = "mailto:gustavomanrrik@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23C71610?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href = "https://wa.me/88998015196"><img src="https://img.shields.io/badge/-Whatsapp-%23075e54?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href = "https://wa.me/88999108518"><img src="https://img.shields.io/badge/-Whatsapp-%23075e54?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div> 
 
 ## Education:
-- Bachelor of Civil Engineering, _Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) and Universidade Estácio de Sá_ (08/2018 - 12/2022 | 10/2024 - Actually)
+- Associate Degree in Financial Management, _Gran Faculdade_ (04/2025 - In Progress)
+- Bachelor of Civil Engineering, _Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE_ (08/2018 - 08/2022)
 - Full Stack Web Development, _Kenzie Academy Brasil_ (01/2023 - 01/2024)
 
 ## Experience:
-- Financial Support Analyst at ExitLag (12/2024 - Actually)
+- Financial Support Analyst at ExitLag (12/2024 - Present)
 - Support Analyst at SevenX Gaming (08/2024 - 12/2024)
 - Support Analyst and Specialist at Cactus Gaming (11/2023 - 05/2024)
 - Peer Coach at Kenzie Academy Brasil (05/2023 - 11/2023)
