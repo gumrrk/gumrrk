@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/gustavo-manrrik" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "https://portfolio-gustavomanrrik.vercel.app/"><img src="https://img.shields.io/badge/-Portfólio-%23032e11?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href = "mailto:gustavomanrrik@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23C71610?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href = "https://wa.me/88999108518"><img src="https://img.shields.io/badge/-Whatsapp-%23075e54?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href = "https://wa.me/5588999108518"><img src="https://img.shields.io/badge/-Whatsapp-%23075e54?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div> 
 
 ## Education:
