@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://docs.google.com/document/d/1s4LL3lN47sUNAszjLA4ZjKyqQXsD75Qi4KInFF5xE0A/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Resume-46295A?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
   <a href="https://www.linkedin.com/in/gustavo-manrrik" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://portfolio-gustavomanrrik.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-032e11?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://gustavomanrrik.com.br" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-032e11?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:gustavomanrrik@gmail.com"><img src="https://img.shields.io/badge/-Gmail-C71610?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://wa.me/5588999108518" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-075e54?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </div>
