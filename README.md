@@ -22,7 +22,7 @@
 ---
 
 ## 💼 Experience
-- **Customer Success & Billing Analyst (Pleno)** at **ExitLag** *(12/2024 - Present)*
+- **Customer Experience & Billing Analyst (Pleno)** at **ExitLag** *(12/2024 - Present)*
 - **Customer Experience Analyst** at **SevenX Gaming** *(08/2024 - 12/2024)*
 - **Customer Experience Specialist & Analyst** at **Cactus Gaming** *(11/2023 - 05/2024)*
 - **Front-End Peer Coach** at **Kenzie Academy Brasil** *(05/2023 - 11/2023)*
