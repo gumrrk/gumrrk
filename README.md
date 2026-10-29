@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header" alt="Header" />
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFBF&center=true&vCenter=true&width=900&lines=Hello!+My+name+is+Gustavo+Manrrik;Full+Stack+Developer+%26+CS+%2F+Billing+Analyst+at+ExitLag;Financial+Management+Student+at+Gran+Faculdade;Based+in+S%C3%A3o+Jos%C3%A9+dos+Pinhais,+PR;Welcome+to+my+profile!+:%29" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFBF&center=true&vCenter=true&width=900&lines=Hello!+My+name+is+Gustavo+Manrrik;Full+Stack+Developer+%26+CX+%2F+Billing+Analyst+at+ExitLag;Financial+Management+Student+at+Gran+Faculdade;Based+in+S%C3%A3o+Jos%C3%A9+dos+Pinhais,+PR;Welcome+to+my+profile!+:%29" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
